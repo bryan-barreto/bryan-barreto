@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Bryan Barreto
+## Hi there I'm Bryan Barreto
 
 - 😄 Pronouns: He/him
 - 🔭 Wworking on: an old school project - PPBRS
