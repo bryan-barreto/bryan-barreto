@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Godot-based game development projects
   
 ### 📫 How to reach me:
-  - [Email](emailto:bryan94barreto@gmail.com)
+  - [Email](mailto:bryan94barreto@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/bryan-barreto/)
 
 ### Check out my game development journey!
