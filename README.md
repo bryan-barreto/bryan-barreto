@@ -1,7 +1,7 @@
 ## Hi there I'm Bryan Barreto
 
 - 😄 Pronouns: He/him
-- 🔭 Wworking on: an old school project - PPBRS
+- 🔭 Working on: an old school project - PPBRS
 - 🌱 Currently learning: Rust and Godot
 - 👯 I’m looking to collaborate on Godot-based game development projects
   
